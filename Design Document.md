@@ -1,33 +1,36 @@
-Concept Document
+# Concept Document
  
  
-Game Title:
+### Game Title:
 TBD
  
-Intended Audience:
+### Intended Audience:
 Adult (18+) who like atmospheric horror shooters.
  
-High Concept:
+### High Concept:
 You are a new shipwright stationed on a space station shipyard that is in disarray. Something has gone horribly wrong. It is up to you to explore the station and uncover its secrets.
  
-Genre:
+### Genre:
 FPS/Action/Horror. Inspired by Deep Space, Space Station 13, and Space Beast Terror Fright.
  
-Description:
-Describe the look and feel of your game. Briefly describe the game world, the player’s place in it, and so on. Give more detail than in the “High Concept” section above.
-You are a new shipwright who has joined a space station tasked with making humanity’s escape vessel from a hostile alien force. You begin with a brief introduction and overview of the shipyard before the station goes into disarray.
+### Description:
+*Describe the look and feel of your game. Briefly describe the game world, the player’s place in it, and so on. Give more detail than in the “High Concept” section above.*
+You are a shipwright who has been sent to a space station/shipyard tasked with helping the station in its endeavours (unknowingly humanity’s escape vessel). However, the station itself has been overtaken by a unknown hostile force. You begin with a brief introduction of where you've been sent, why, and perhaps a short sentence or two detailing how the station is frequently viewed. Your shuttle docks on the station, the doors snap open, and you are greeted to a station that is less than functional. 
  
+### Story:
+*What is your game’s story? Why is the player here and what is s/he doing? What is his/her eventual goal? (Even if your game doesn’t have an explicit story, with characters and dialogue, it should have background and goal(s) for the player.)*
+You are a shipwright sent to a space station. Your role is to help them work on the various ships they are trying to build (and encountering issues with) as well as repair the station. Upon arrival, you learn that much has occurred since you've been requested and you must do what you can to find who's alive and escape (via the "Ark"). Background motive is survival :)
  
-Story:
-What is your game’s story? Why is the player here and what is s/he doing? What is his/her eventual goal? (Even if your game doesn’t have an explicit story, with characters and dialogue, it should have background and goal(s) for the player.)
+### Settings/Environments:
+*List and briefly detail the setting(s)/environment(s) in which your game takes place. What will the player see in your game? Where will s/he go?*
+Dark, eerie atmosphere. Industrial-style space station shipyard. Narrow hallways. Different sized rooms. Multiple vertical levels. Largely want to provide the feeling of claustrophobia while giving the player times to breathe. 
  
- 
-Settings/Environments:
-List and briefly detail the setting(s)/environment(s) in which your game takes place. What will the player see in your game? Where will s/he go?
- Dark, eerie atmosphere. Industrial-style space station shipyard. Narrow hallways. Different sized rooms. Multiple vertical levels.
- 
-Features/Gameplay:
-List the important features of your game and give examples of its gameplay. This section should complement the “Description” section above, not duplicate it. A bullet list would work well. How does this gameplay fit your story and setting?
+### Features/Gameplay:
+*List the important features of your game and give examples of its gameplay. This section should complement the “Description” section above, not duplicate it. A bullet list would work well. How does this gameplay fit your story and setting?*
+
+* Equipment/Upgrades (e.g. new movement options, upgrades to your weapon, new weapons, etc)
+* Metroid-esque areas where you must retrieve new equipment for your character to progress
+* 
  
 USPs:
 What are your game’s Unique Selling Points? What’s different about it?
@@ -52,26 +55,32 @@ Audience:
 Who is the target audience for your game?
  
  
-Unique Selling Point(s):
-What is the hook(s) for your game? What’s different about it? What’s the player going to love about it? What is there about your game that will surprise the player and keep him/her coming back?
+### Unique Selling Point(s):
+*What is the hook(s) for your game? What’s different about it? What’s the player going to love about it? What is there about your game that will surprise the player and keep him/her coming back?*
 
 
 
-Story
+
+## Story
  
 Here’s where you give us the details on your game’s story and the player’s place in it. Every game needs a story, even if it’s only for the dev team.
  
  
-Plot:
+### Plot:
 What happens in your story? Give us at least a basic outline of your story, including the start and the ending.
  
  
-The Player Character:
+### The Player Character:
 Tell us who the PC is in your story—background, motivations, goals, and so on. If possible, include concept art of the PC or an image from another game to give us a sense of the PC.
  
  
-The Foe (Shadow):
-Who or what is the main force opposing the player’s drive toward his/her end goal? What are this character’s goals? How does he/she/it aim to achieve them?
+### The Foe (Shadow):
+*Who or what is the main force opposing the player’s drive toward his/her end goal? What are this character’s goals? How does he/she/it aim to achieve them?*
+ * Basic melee grunt
+ * Ranged 
+ * Mini-boss (Mr. X inspired?)
+ * Only sight/hearing enemy (provide ways to parry enemy/"player controls pacing of game, not the enemy's design")
+
  
  
 Other Characters:
@@ -134,10 +143,16 @@ The reader should have a good sense of your intended player experience by readin
  
 Player Experience:
 What will the player experience be like in your game? What emotions or reactions are you aiming to inspire in the player?
- 
+* Feeling oppressed
+* Intimidated
+* Potentially anxious
+* Quick to take on enemies
  
 Player Character Actions:
-What can the PC do in your game? How does s/he interact with the game world and its characters?
+*What can the PC do in your game? How does s/he interact with the game world and its characters?*
+* Shoot
+* Melee (blade on gun? a form of parrying) 
+* Interact button (e.g. PRESS E) 
  
  
 Player Character End Goal:
@@ -145,7 +160,7 @@ What is the PC’s end goal in the game? What is s/he trying to accomplish? And 
  
  
 Enemies:
-These are the animate obstacles to the player’s progress. Who are the player’s foes, what do they want, what do they do, etc.? Is there a hierarchy to these foes? If so, who leads them? Concept art or images from other games will help give a feel for these foes.
+*These are the animate obstacles to the player’s progress. Who are the player’s foes, what do they want, what do they do, etc.? Is there a hierarchy to these foes? If so, who leads them? Concept art or images from other games will help give a feel for these foes.*
  
  
 Combat:
@@ -208,21 +223,21 @@ How does the game world convey information to the player? Is it via dialogue, te
 
 
 
-Music and Sound Effects
+### Music and Sound Effects
  
 Tell us about the audio component of your game design. Keep in mind that audio works with the visuals, story, and gameplay to help create a unified theme for the player experience.
  
  
-Music:
+#### Music:
 Describe the general style of the music for your game, the atmosphere you’re trying to create, and the effect you hope the music has on the player. For each distinct area of your game, give suggestions as to the mood/atmosphere the music should convey. 
  
  
-Sound Effects:
+#### Sound Effects:
 Give us an idea of the kinds of events, player/NPC actions, and so on that will trigger sound effects in your game. Also list unique ambient sounds (background sounds) for each distinct area of your game, to convey the feel of that area (e.g., machinery and truck sounds in an industrial area).
  
 
  
-Miscellaneous
+### Miscellaneous
  
 Anything else you’d like to tell us about your game? Add any information or thoughts that don’t fit in the other sections of this document.
  
