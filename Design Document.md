@@ -76,10 +76,7 @@ Tell us who the PC is in your story—background, motivations, goals, and so on.
  
 ### The Foe (Shadow):
 *Who or what is the main force opposing the player’s drive toward his/her end goal? What are this character’s goals? How does he/she/it aim to achieve them?*
- * Basic melee grunt
- * Ranged 
- * Mini-boss (Mr. X inspired?)
- * Only sight/hearing enemy (provide ways to parry enemy/"player controls pacing of game, not the enemy's design")
+* Hivemind? 
 
  
  
@@ -113,8 +110,10 @@ Interactivity:
 What can the player do with your game world? How does s/he interact with it? List some examples of interactive objects, items, and locations here. Also, in what ways can the player interact with the inhabitants of your game world?
  
  
-Training:
-Is there a training level/area built into your game? If so, describe it here. If not, how does the player learn the controls and how to play? Does the training level also serve to familiarize the player with the game world and his/her PC?
+### Training:
+*Is there a training level/area built into your game? If so, describe it here. If not, how does the player learn the controls and how to play? Does the training level also serve to familiarize the player with the game world and his/her PC?*
+
+* No tutorial area. Just some of the beginning area will be short that won't allow the player to progress until they do it (e.g. crouching through vent to learn crouching with an on-screen prompt that doesn't interrupt gameplay)
  
  
 Map/Layout:
@@ -122,15 +121,6 @@ Describe the layout of your world here--how the levels, environments, or areas o
  
 
 
-
-
-
-
-
-
-
-
-Game Design Document Outline, Part 2 for:
  
 <<Name of Game>>
  
@@ -155,31 +145,49 @@ Player Character Actions:
 * Interact button (e.g. PRESS E) 
  
  
-Player Character End Goal:
-What is the PC’s end goal in the game? What is s/he trying to accomplish? And when s/he reaches the end, what are the rewards?
+### Player Character End Goal:
+*What is the PC’s end goal in the game? What is s/he trying to accomplish? And when s/he reaches the end, what are the rewards?*
+ 
+* Rescue survivors (potentially different endings for which ones?)
+* Main: Set station to blow and escape via the Ark
  
  
-Enemies:
+### Enemies:
 *These are the animate obstacles to the player’s progress. Who are the player’s foes, what do they want, what do they do, etc.? Is there a hierarchy to these foes? If so, who leads them? Concept art or images from other games will help give a feel for these foes.*
+
+* Hivemind enemy
+  * Grunt 
+  * Ranged
+  * Mini-boss
+  * Only sight/hearing enemy (provide ways to parry enemy/"player controls pacing of game, not the enemy's design")
+ 
+### Combat:
+*How does combat work? How does the player battle forces inimical to his/her quest? (It’s OK if combat does not fit the theme of your game, but be sure to tell us what characters or objects oppose the player’s quest and how s/he overcomes them.)*
+ 
+* Largely arcade-like feeling gameplay that stacks on more movement options as you play. 
  
  
-Combat:
-How does combat work? How does the player battle forces inimical to his/her quest? (It’s OK if combat does not fit the theme of your game, but be sure to tell us what characters or objects oppose the player’s quest and how s/he overcomes them.)
+### Obstacles:
+*What inanimate challenges will the player encounter in your game?*
+
+* Locked doors
  
  
-Obstacles:
-What inanimate challenges will the player encounter in your game?
+### Objects, Items, Weapons, etc.:
+*What inanimate objects can the player pick up or otherwise interact with? How do those work? Any parts of the environment that are interactable, detail them here.*
+
  
  
-Objects, Items, Weapons, etc.:
-What inanimate objects can the player pick up or otherwise interact with? How do those work? Any parts of the environment that are interactable, detail them here.
+### Replayability:
+*How replayable is your game? What makes it replayable? If it isn’t, try to make it so.*
  
- 
-Replayability:
-How replayable is your game? What makes it replayable? If it isn’t, try to make it so.
+* You will enjoy the encoutners enough to want to replay them.
+* Potentially Acts/Episodes (not highly likely but talk to Xander?)
+* Secrets
+* Combat System feels good (maybe make an endless arena? way, way down the line after it's finished though)
  
   
-Art Style / Aesthetics
+### Art Style / Aesthetics
  
 What is the look and feel of your game? What atmosphere do you hope to create for the player? Give some visuals of the environments in which your story and game will occur. Be sure to describe the images you add here, telling the environment artists and level designers on your team what each image means for the game.
  
@@ -188,27 +196,27 @@ Also be sure to give images for character art style.
 NOTE: This section must include either original concept art or images/screenshots/concepts from other games that show the art style you’re aiming for.
  
 Create sub-sections here as needed.
- 
 
 
 
-
-User Interface / Controls
+### User Interface / Controls
  
-How does the player interact with your game world and its characters, items, and environment? What information and capabilities do you provide the player as s/he is playing?
+*How does the player interact with your game world and its characters, items, and environment? What information and capabilities do you provide the player as s/he is playing?*
  
- 
-Interface:
-What information will you display on-screen for the player? Include a sketch of the user interface during gameplay.
+* WASD/Mouse/E/(Q Last weapon?)
  
  
-Menus:
-What menus and capabilities do you provide the player (for example, Inventory, Journal, Equipping/Loadout, etc.)? These should all be functions that enhance the player’s experience. Include a sketch or image of each menu you plan.
+#### Interface:
+*What information will you display on-screen for the player? Include a sketch of the user interface during gameplay.*
  
  
-Messaging:
-How does the game world convey information to the player? Is it via dialogue, text messages, verbal notifications, images and effects splashed onto the screen, etc.?
+#### Menus:
+*What menus and capabilities do you provide the player (for example, Inventory, Journal, Equipping/Loadout, etc.)? These should all be functions that enhance the player’s experience. Include a sketch or image of each menu you plan.*
  
+ 
+#### Messaging:
+*How does the game world convey information to the player? Is it via dialogue, text messages, verbal notifications, images and effects splashed onto the screen, etc.?*
+PDA's (may have voice acting if given time) you can find around the game. Puts essentially PDA on screen you can scroll through and click off of. 
 
 
 
