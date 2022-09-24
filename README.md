@@ -1,2 +1,2 @@
 # Project-Neptune
-3D FPS Adventure game. Inspired by Dead Space and SS 13
+FPS/Horror Hybrid video game. Inspired by Dead Space, SS13, Space Beast Terror Fright, and more.
