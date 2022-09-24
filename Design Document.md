@@ -30,7 +30,6 @@ Dark, eerie atmosphere. Industrial-style space station shipyard. Narrow hallways
 
 * Equipment/Upgrades (e.g. new movement options, upgrades to your weapon, new weapons, etc)
 * Metroid-esque areas where you must retrieve new equipment for your character to progress
-* 
  
 USPs:
 What are your game’s Unique Selling Points? What’s different about it? 
@@ -113,11 +112,6 @@ What can the player do with your game world? How does s/he interact with it? Lis
  
 Map/Layout:
 Describe the layout of your world here--how the levels, environments, or areas of your game world connect, how the player makes his/her way through your world. Include a map(s) or image(s) showing this layout.
- 
-
-
- 
-<<Name of Game>>
  
  
 Gameplay
