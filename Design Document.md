@@ -1,8 +1,7 @@
-Concept Document Template
+Concept Document
  
  
 Game Title:
-Give your game a name! Leave this until after you’ve filled out the rest of the template.
 TBD
  
 Intended Audience:
