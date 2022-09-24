@@ -33,12 +33,7 @@ Dark, eerie atmosphere. Industrial-style space station shipyard. Narrow hallways
 * 
  
 USPs:
-What are your game’s Unique Selling Points? What’s different about it?
-
-Game Design Document Outline, Part 1 for:
- 
-<<Name of Game>>
- 
+What are your game’s Unique Selling Points? What’s different about it? 
  
 The Basics
 (This information should mostly come from your concept doc.)
