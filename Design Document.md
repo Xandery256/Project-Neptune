@@ -195,6 +195,7 @@ Create sub-sections here as needed.
 * No mini-map
 * Overall world map (can collect pieces)
 * Ammo indicator on weapon
+* Wrist PDA has health, inventory, access level, etc
 * Health: Breathing sfx, dead space health indicator on wrist (watch), motion tracker
 * Sheen/Outline on interactables (including npcs)
  
