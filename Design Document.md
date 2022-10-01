@@ -189,7 +189,12 @@ Create sub-sections here as needed.
  
 #### Interface:
 *What information will you display on-screen for the player? Include a sketch of the user interface during gameplay.*
- 
+
+* Immersive/Minimal (Looks like a part of the world)
+* No mini-map
+* Overall world map (can collect pieces)
+* Ammo indicator on weapon
+* Health: Breathing sfx, dead space health indicator on wrist (watch), motion tracker
  
 #### Menus:
 *What menus and capabilities do you provide the player (for example, Inventory, Journal, Equipping/Loadout, etc.)? These should all be functions that enhance the player’s experience. Include a sketch or image of each menu you plan.*
@@ -199,8 +204,8 @@ Create sub-sections here as needed.
 *How does the game world convey information to the player? Is it via dialogue, text messages, verbal notifications, images and effects splashed onto the screen, etc.?*
 PDA's (may have voice acting if given time) you can find around the game. Puts essentially PDA on screen you can scroll through and click off of. 
 
-
-
+* PDAs
+* Images on screen
 
 
 
@@ -218,14 +223,17 @@ Tell us about the audio component of your game design. Keep in mind that audio w
  
  
 #### Music:
-Describe the general style of the music for your game, the atmosphere you’re trying to create, and the effect you hope the music has on the player. For each distinct area of your game, give suggestions as to the mood/atmosphere the music should convey. 
+*Describe the general style of the music for your game, the atmosphere you’re trying to create, and the effect you hope the music has on the player. For each distinct area of your game, give suggestions as to the mood/atmosphere the music should convey.*
+
+* More-so ambience. Not as much music perhaps. 
  
  
 #### Sound Effects:
-Give us an idea of the kinds of events, player/NPC actions, and so on that will trigger sound effects in your game. Also list unique ambient sounds (background sounds) for each distinct area of your game, to convey the feel of that area (e.g., machinery and truck sounds in an industrial area).
+*Give us an idea of the kinds of events, player/NPC actions, and so on that will trigger sound effects in your game. Also list unique ambient sounds (background sounds) for each distinct area of your game, to convey the feel of that area (e.g., machinery and truck sounds in an industrial area).*
+
+* Punchy, Nasty, Alien, Industrial/Mechanical, buzzing of lights, door machinery, suit sounds, footsteps
  
 
- 
 ### Miscellaneous
  
 Anything else you’d like to tell us about your game? Add any information or thoughts that don’t fit in the other sections of this document.
