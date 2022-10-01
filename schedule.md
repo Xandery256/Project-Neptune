@@ -17,5 +17,5 @@
 | Phase 6 | (Complex) Weapons + Mini-Boss (Xander) // Textures + SFX (Austin) // Particle Effects (Josh) |
 | Phase 7 | Encounter Design (Josh) // Voice Acting :) + Ambience + Lighting (Austin) // Options + Credits Page/Tab (Xander) | 
 | Phase 8 | Cutscene (Josh + Austin) // Complex AI + Re-Structure schedule (Xander) |
-| Phase 9 | Animation + Josh (Austin, good luck learning lol) |
+| Phase 9 | Animation (Josh + Austin, good luck learning lol) |
 
