@@ -31,77 +31,69 @@ Dark, eerie atmosphere. Industrial-style space station shipyard. Narrow hallways
 * Equipment/Upgrades (e.g. new movement options, upgrades to your weapon, new weapons, etc)
 * Metroid-esque areas where you must retrieve new equipment for your character to progress
  
-USPs:
-What are your game’s Unique Selling Points? What’s different about it? 
+### USPs:
+*What are your game’s Unique Selling Points? What’s different about it?*
+Setting/Mini-bosses
  
-The Basics
-(This information should mostly come from your concept doc.)
- 
-Game:
-Describe your game in a paragraph.
- 
- 
-Genre:
-What genre does your game fit into?
- 
- 
-Audience:
-Who is the target audience for your game?
- 
- 
-### Unique Selling Point(s):
-*What is the hook(s) for your game? What’s different about it? What’s the player going to love about it? What is there about your game that will surprise the player and keep him/her coming back?*
-
-
-
-
-## Story
- 
-Here’s where you give us the details on your game’s story and the player’s place in it. Every game needs a story, even if it’s only for the dev team.
- 
+## The Basics
+*(This information should mostly come from your concept doc.)*
  
 ### Plot:
-What happens in your story? Give us at least a basic outline of your story, including the start and the ending.
- 
+*What happens in your story? Give us at least a basic outline of your story, including the start and the ending.*
+
+* Arrive at desolate station
+* Make way to engineering department
+* Explore each dept and find heads
+* Find Parts
+* Repair Ship
+* Escape
  
 ### The Player Character:
-Tell us who the PC is in your story—background, motivations, goals, and so on. If possible, include concept art of the PC or an image from another game to give us a sense of the PC.
+*Tell us who the PC is in your story—background, motivations, goals, and so on. If possible, include concept art of the PC or an image from another game to give us a sense of the PC.*
+He is a shipwright. His motivations are to survive and help who is stil alive. 
  
  
 ### The Foe (Shadow):
 *Who or what is the main force opposing the player’s drive toward his/her end goal? What are this character’s goals? How does he/she/it aim to achieve them?*
-* Hivemind? 
+* Hivemind; To spread to survive. Aims to achieve it by spreading wherever possible.
 
+### Other Characters:
+*Who else is in your story, what’s their purpose, and what do they do?*
+Heads of ea. department; Surviving crew members (e.g. clown) 
  
- 
-Other Characters:
-Who else is in your story, what’s their purpose, and what do they do?
- 
- 
-Story Vehicles:
-Tell us how you will convey your story to the player. Will there be dialogue (text or voice) with NPCs? Text screens with story as a reward for player accomplishments? Cutscenes?
+### Story Vehicles:
+*Tell us how you will convey your story to the player. Will there be dialogue (text or voice) with NPCs? Text screens with story as a reward for player accomplishments? Cutscenes?*
+* Cutscene (beginning and ending)
+* PDAs
+* NPC Dialogue
 
- 
-
-The Game World
+## The Game World
  
 Tell us about your game world here. Fill in all sections as completely as possible. Add other sections if your game calls for them.
  
  
-Environments:
-Describe the environments the player will encounter in your game. Concept art and/or images from other games could help convey this.
+### Environments:
+*Describe the environments the player will encounter in your game. Concept art and/or images from other games could help convey this.*
+* Engineering lab, medical facility, security/armory area, cargo, shipyard/Shipwright quarters, manufacturing plant, chapel, bar, old bar, cafeteria, lounge, living quarters, maintenance halls, Mech LAB
+ 
+### Key Locations:
+*Describe the key locations in your world, places where important parts of the story occur.*
+* Bridge/Captain's Quarters, Chapel, Old Bar, Armory, Head of Medical's Office, Mech LAB
+ 
+### Game Flow:
+*How does the player character experience your game world? How do the world’s locations connect? Include the order in which the player encounters the sections of your game world. Note: Make sure the connections between areas are either logical or make sense within the context of your story!*
+
+* Every sector of the station is interconnected to a central hub area. The world's locations connect by hallways and stairs where they will encounter enemies and a variety of other things.
  
  
-Key Locations:
-Describe the key locations in your world, places where important parts of the story occur.
- 
- 
-Game Flow:
-How does the player character experience your game world? How do the world’s locations connect? Include the order in which the player encounters the sections of your game world. Note: Make sure the connections between areas are either logical or make sense within the context of your story!
- 
- 
-Interactivity:
-What can the player do with your game world? How does s/he interact with it? List some examples of interactive objects, items, and locations here. Also, in what ways can the player interact with the inhabitants of your game world?
+### Interactivity:
+*What can the player do with your game world? How does s/he interact with it? List some examples of interactive objects, items, and locations here. Also, in what ways can the player interact with the inhabitants of your game world?*
+
+* Doors
+* Parts
+* Weapons
+* Ammunition 
+* Talk to NPCs
  
  
 ### Training:
