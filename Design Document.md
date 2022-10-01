@@ -74,11 +74,11 @@ Tell us about your game world here. Fill in all sections as completely as possib
  
 ### Environments:
 *Describe the environments the player will encounter in your game. Concept art and/or images from other games could help convey this.*
-* Engineering lab, medical facility, security/armory area, cargo, shipyard/Shipwright quarters, manufacturing plant, chapel, bar, old bar, cafeteria, lounge, living quarters, maintenance halls, Mech LAB
+* Engineering lab, medical facility, security/armory area, cargo, shipyard/Shipwright quarters, manufacturing plant, chapel, bar, old bar, cafeteria, lounge, living quarters, maintenance halls, Mech LAB, botany, observatory, AI hub, genetics, courtroom, gym, surgery, telescience lab, atmospheric technician area, aquarium
  
 ### Key Locations:
 *Describe the key locations in your world, places where important parts of the story occur.*
-* Bridge/Captain's Quarters, Chapel, Old Bar, Armory, Head of Medical's Office, Mech LAB
+* Bridge/Captain's Quarters, Chapel, Old Bar, Armory, Head of Medical's Office, Mech LAB, atmospheric technician area, telescience lab, ai hub, observatory, aquarium
  
 ### Game Flow:
 *How does the player character experience your game world? How do the world’s locations connect? Include the order in which the player encounters the sections of your game world. Note: Make sure the connections between areas are either logical or make sense within the context of your story!*
