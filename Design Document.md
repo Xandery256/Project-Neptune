@@ -102,10 +102,8 @@ Tell us about your game world here. Fill in all sections as completely as possib
 
 * No tutorial area. Just some of the beginning area will be short that won't allow the player to progress until they do it (e.g. crouching through vent to learn crouching with an on-screen prompt that doesn't interrupt gameplay)
  
- 
 Map/Layout:
 Describe the layout of your world here--how the levels, environments, or areas of your game world connect, how the player makes his/her way through your world. Include a map(s) or image(s) showing this layout.
- 
  
 Gameplay
  
@@ -126,13 +124,11 @@ Player Character Actions:
 * Melee (blade on gun? a form of parrying) 
 * Interact button (e.g. PRESS E) 
  
- 
 ### Player Character End Goal:
 *What is the PC’s end goal in the game? What is s/he trying to accomplish? And when s/he reaches the end, what are the rewards?*
  
 * Rescue survivors (potentially different endings for which ones?)
 * Main: Set station to blow and escape via the Ark
- 
  
 ### Enemies:
 *These are the animate obstacles to the player’s progress. Who are the player’s foes, what do they want, what do they do, etc.? Is there a hierarchy to these foes? If so, who leads them? Concept art or images from other games will help give a feel for these foes.*
@@ -159,7 +155,6 @@ Player Character Actions:
 *What inanimate objects can the player pick up or otherwise interact with? How do those work? Any parts of the environment that are interactable, detail them here.*
 
  
- 
 ### Replayability:
 *How replayable is your game? What makes it replayable? If it isn’t, try to make it so.*
  
@@ -179,14 +174,11 @@ NOTE: This section must include either original concept art or images/screenshot
  
 Create sub-sections here as needed.
 
-
-
 ### User Interface / Controls
  
 *How does the player interact with your game world and its characters, items, and environment? What information and capabilities do you provide the player as s/he is playing?*
  
 * WASD/Mouse/E/(Q Last weapon?)
- 
  
 #### Interface:
 *What information will you display on-screen for the player? Include a sketch of the user interface during gameplay.*
@@ -198,6 +190,8 @@ Create sub-sections here as needed.
 * Wrist PDA has health, inventory, access level, etc
 * Health: Breathing sfx, dead space health indicator on wrist (watch), motion tracker
 * Sheen/Outline on interactables (including npcs)
+* Screens you interact with on the screen (Duke Nukem Forever idea)
+* Main Menu transitions to game (you are at a computer in-game, that is the main menu)
  
 #### Menus:
 *What menus and capabilities do you provide the player (for example, Inventory, Journal, Equipping/Loadout, etc.)? These should all be functions that enhance the player’s experience. Include a sketch or image of each menu you plan.*
@@ -239,9 +233,9 @@ Tell us about the audio component of your game design. Keep in mind that audio w
 
 ### Miscellaneous
  
-Anything else you’d like to tell us about your game? Add any information or thoughts that don’t fit in the other sections of this document.
+*Anything else you’d like to tell us about your game? Add any information or thoughts that don’t fit in the other sections of this document.*
  
- 
+Multiple Save Files 
  
 
  
