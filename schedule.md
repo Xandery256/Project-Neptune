@@ -12,7 +12,7 @@
 | Phase 1 | Player Controller (Xander) // Concept Art (Austin) // Physics/Collision (Josh) |
 | Phase 2 | Main Menu + Save/Load (Xander), Level Blockout (Austin), Interactables (Josh) |
 | Phase 3 | Basic Grunt (Xander) // Detailed Level Blockout (Austin) // (Simple) Weapons + Pickups (Josh) | 
-| Phase 4 | Simple AI (NPCs and Enemy) Behavior (Xander) // Physical Map + Writing + Basic Texture Coloring (Austin) // Basic PDA (Josh) |
+| Phase 4 | Simple AI (NPCs and Enemy) Behavior (Xander) // UI Map + Writing + Basic Texture Coloring (Austin) // Basic PDA (Josh) |
 | Phase 5 | Player Controller Advanced (Xander) // Textures (Austin) // (Complex) PDA (Josh) |
 | Phase 6 | (Complex) Weapons + Mini-Boss (Xander) // Textures + SFX (Austin) // Particle Effects (Josh) |
 | Phase 7 | Encounter Design (Josh) // Voice Acting :) + Ambience + Lighting (Austin) // Options + Credits Page/Tab (Xander) | 
