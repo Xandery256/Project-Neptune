@@ -50,6 +50,7 @@ Setting/Mini-bosses
  
 ### The Player Character:
 *Tell us who the PC is in your story—background, motivations, goals, and so on. If possible, include concept art of the PC or an image from another game to give us a sense of the PC.*
+
 He is a shipwright. His motivations are to survive and help who is stil alive. 
  
  
@@ -195,6 +196,7 @@ Create sub-sections here as needed.
 * Overall world map (can collect pieces)
 * Ammo indicator on weapon
 * Health: Breathing sfx, dead space health indicator on wrist (watch), motion tracker
+* Sheen/Outline on interactables (including npcs)
  
 #### Menus:
 *What menus and capabilities do you provide the player (for example, Inventory, Journal, Equipping/Loadout, etc.)? These should all be functions that enhance the player’s experience. Include a sketch or image of each menu you plan.*
